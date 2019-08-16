@@ -1,0 +1,19 @@
+C:\Projects\MirAlgoritmov\NonlinearEquation\BisectionConsoleCSharp\BisectionConsoleCSharp\bin\Debug\BisectionConsoleCSharp.exe
+C:\Projects\MirAlgoritmov\NonlinearEquation\BisectionConsoleCSharp\BisectionConsoleCSharp\bin\Debug\BisectionConsoleCSharp.pdb
+C:\Projects\MirAlgoritmov\NonlinearEquation\BisectionConsoleCSharp\BisectionConsoleCSharp\obj\Debug\BisectionConsoleCSharp.csprojResolveAssemblyReference.cache
+C:\Projects\MirAlgoritmov\NonlinearEquation\BisectionConsoleCSharp\BisectionConsoleCSharp\obj\Debug\BisectionConsoleCSharp.exe
+C:\Projects\MirAlgoritmov\NonlinearEquation\BisectionConsoleCSharp\BisectionConsoleCSharp\obj\Debug\BisectionConsoleCSharp.pdb
+C:\Projects\_BusinessProjects\MirAlgoritmov\NonlinearEquation\BisectionConsoleCSharp\BisectionConsoleCSharp\obj\Debug\BisectionConsoleCSharp.exe
+C:\Projects\_BusinessProjects\MirAlgoritmov\NonlinearEquation\BisectionConsoleCSharp\BisectionConsoleCSharp\obj\Debug\BisectionConsoleCSharp.pdb
+C:\Users\Tima\Desktop\BisectionConsoleCSharp\BisectionConsoleCSharp\bin\Debug\BisectionConsoleCSharp.exe
+C:\Users\Tima\Desktop\BisectionConsoleCSharp\BisectionConsoleCSharp\bin\Debug\BisectionConsoleCSharp.pdb
+C:\Users\Tima\Desktop\BisectionConsoleCSharp\BisectionConsoleCSharp\obj\Debug\BisectionConsoleCSharp.csprojAssemblyReference.cache
+C:\Users\Tima\Desktop\BisectionConsoleCSharp\BisectionConsoleCSharp\obj\Debug\BisectionConsoleCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Tima\Desktop\BisectionConsoleCSharp\BisectionConsoleCSharp\obj\Debug\BisectionConsoleCSharp.exe
+C:\Users\Tima\Desktop\BisectionConsoleCSharp\BisectionConsoleCSharp\obj\Debug\BisectionConsoleCSharp.pdb
+D:\Google Drive Sync\Навчання\Алгоритми\BisectionConsoleCSharp\BisectionConsoleCSharp\bin\Debug\BisectionConsoleCSharp.exe
+D:\Google Drive Sync\Навчання\Алгоритми\BisectionConsoleCSharp\BisectionConsoleCSharp\bin\Debug\BisectionConsoleCSharp.pdb
+D:\Google Drive Sync\Навчання\Алгоритми\BisectionConsoleCSharp\BisectionConsoleCSharp\obj\Debug\BisectionConsoleCSharp.csprojAssemblyReference.cache
+D:\Google Drive Sync\Навчання\Алгоритми\BisectionConsoleCSharp\BisectionConsoleCSharp\obj\Debug\BisectionConsoleCSharp.csproj.CoreCompileInputs.cache
+D:\Google Drive Sync\Навчання\Алгоритми\BisectionConsoleCSharp\BisectionConsoleCSharp\obj\Debug\BisectionConsoleCSharp.exe
+D:\Google Drive Sync\Навчання\Алгоритми\BisectionConsoleCSharp\BisectionConsoleCSharp\obj\Debug\BisectionConsoleCSharp.pdb

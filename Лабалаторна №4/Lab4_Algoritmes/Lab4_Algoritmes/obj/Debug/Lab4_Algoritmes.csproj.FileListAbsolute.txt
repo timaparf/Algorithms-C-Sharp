@@ -1,0 +1,7 @@
+C:\Users\Timothy\source\repos\Lab4_Algoritmes\Lab4_Algoritmes\bin\Debug\Lab4_Algoritmes.exe.config
+C:\Users\Timothy\source\repos\Lab4_Algoritmes\Lab4_Algoritmes\bin\Debug\Lab4_Algoritmes.exe
+C:\Users\Timothy\source\repos\Lab4_Algoritmes\Lab4_Algoritmes\bin\Debug\Lab4_Algoritmes.pdb
+C:\Users\Timothy\source\repos\Lab4_Algoritmes\Lab4_Algoritmes\obj\Debug\Lab4_Algoritmes.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\Lab4_Algoritmes\Lab4_Algoritmes\obj\Debug\Lab4_Algoritmes.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\Lab4_Algoritmes\Lab4_Algoritmes\obj\Debug\Lab4_Algoritmes.exe
+C:\Users\Timothy\source\repos\Lab4_Algoritmes\Lab4_Algoritmes\obj\Debug\Lab4_Algoritmes.pdb

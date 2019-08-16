@@ -1,0 +1,14 @@
+C:\Users\Timothy\source\repos\Algoritmes5\Algoritmes5\bin\Debug\Algoritmes5.exe.config
+C:\Users\Timothy\source\repos\Algoritmes5\Algoritmes5\bin\Debug\Algoritmes5.exe
+C:\Users\Timothy\source\repos\Algoritmes5\Algoritmes5\bin\Debug\Algoritmes5.pdb
+C:\Users\Timothy\source\repos\Algoritmes5\Algoritmes5\obj\Debug\Algoritmes5.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\Algoritmes5\Algoritmes5\obj\Debug\Algoritmes5.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\Algoritmes5\Algoritmes5\obj\Debug\Algoritmes5.exe
+C:\Users\Timothy\source\repos\Algoritmes5\Algoritmes5\obj\Debug\Algoritmes5.pdb
+D:\Google Drive Sync\Навчання\Алгоритми\Лабалаторна №5\Algoritmes5\Algoritmes5\bin\Debug\Algoritmes5.exe.config
+D:\Google Drive Sync\Навчання\Алгоритми\Лабалаторна №5\Algoritmes5\Algoritmes5\bin\Debug\Algoritmes5.exe
+D:\Google Drive Sync\Навчання\Алгоритми\Лабалаторна №5\Algoritmes5\Algoritmes5\bin\Debug\Algoritmes5.pdb
+D:\Google Drive Sync\Навчання\Алгоритми\Лабалаторна №5\Algoritmes5\Algoritmes5\obj\Debug\Algoritmes5.csprojAssemblyReference.cache
+D:\Google Drive Sync\Навчання\Алгоритми\Лабалаторна №5\Algoritmes5\Algoritmes5\obj\Debug\Algoritmes5.csproj.CoreCompileInputs.cache
+D:\Google Drive Sync\Навчання\Алгоритми\Лабалаторна №5\Algoritmes5\Algoritmes5\obj\Debug\Algoritmes5.exe
+D:\Google Drive Sync\Навчання\Алгоритми\Лабалаторна №5\Algoritmes5\Algoritmes5\obj\Debug\Algoritmes5.pdb

@@ -1,0 +1,16 @@
+C:\Projects\MirAlgoritmov\NonlinearEquation\NewtonConsoleCSharp\NewtonConsoleCSharp\bin\Debug\NewtonConsoleCSharp.exe
+C:\Projects\MirAlgoritmov\NonlinearEquation\NewtonConsoleCSharp\NewtonConsoleCSharp\bin\Debug\NewtonConsoleCSharp.pdb
+C:\Projects\MirAlgoritmov\NonlinearEquation\NewtonConsoleCSharp\NewtonConsoleCSharp\obj\Debug\NewtonConsoleCSharp.csprojResolveAssemblyReference.cache
+C:\Projects\MirAlgoritmov\NonlinearEquation\NewtonConsoleCSharp\NewtonConsoleCSharp\obj\Debug\NewtonConsoleCSharp.exe
+C:\Projects\MirAlgoritmov\NonlinearEquation\NewtonConsoleCSharp\NewtonConsoleCSharp\obj\Debug\NewtonConsoleCSharp.pdb
+C:\Projects\_BusinessProjects\MirAlgoritmov\NonlinearEquation\NewtonConsoleCSharp\NewtonConsoleCSharp\obj\Debug\NewtonConsoleCSharp.exe
+C:\Projects\_BusinessProjects\MirAlgoritmov\NonlinearEquation\NewtonConsoleCSharp\NewtonConsoleCSharp\obj\Debug\NewtonConsoleCSharp.pdb
+C:\Projects\_BusinessProjects\MirAlgoritmov\NonlinearEquation\NewtonConsoleCSharp\NewtonConsoleCSharp\bin\Debug\NewtonConsoleCSharp.exe
+C:\Projects\_BusinessProjects\MirAlgoritmov\NonlinearEquation\NewtonConsoleCSharp\NewtonConsoleCSharp\bin\Debug\NewtonConsoleCSharp.pdb
+C:\Projects\_BusinessProjects\MirAlgoritmov\NonlinearEquation\NewtonConsoleCSharp\NewtonConsoleCSharp\obj\Debug\NewtonConsoleCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Tima\Desktop\NewtonConsoleCSharp\NewtonConsoleCSharp\bin\Debug\NewtonConsoleCSharp.exe
+C:\Users\Tima\Desktop\NewtonConsoleCSharp\NewtonConsoleCSharp\bin\Debug\NewtonConsoleCSharp.pdb
+C:\Users\Tima\Desktop\NewtonConsoleCSharp\NewtonConsoleCSharp\obj\Debug\NewtonConsoleCSharp.csprojAssemblyReference.cache
+C:\Users\Tima\Desktop\NewtonConsoleCSharp\NewtonConsoleCSharp\obj\Debug\NewtonConsoleCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Tima\Desktop\NewtonConsoleCSharp\NewtonConsoleCSharp\obj\Debug\NewtonConsoleCSharp.exe
+C:\Users\Tima\Desktop\NewtonConsoleCSharp\NewtonConsoleCSharp\obj\Debug\NewtonConsoleCSharp.pdb

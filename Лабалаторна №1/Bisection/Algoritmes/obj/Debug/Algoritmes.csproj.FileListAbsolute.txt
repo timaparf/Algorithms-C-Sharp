@@ -1,0 +1,21 @@
+C:\Users\Timothy\source\repos\Algoritmes\Algoritmes\bin\Debug\Algoritmes.exe.config
+C:\Users\Timothy\source\repos\Algoritmes\Algoritmes\bin\Debug\Algoritmes.exe
+C:\Users\Timothy\source\repos\Algoritmes\Algoritmes\bin\Debug\Algoritmes.pdb
+C:\Users\Timothy\source\repos\Algoritmes\Algoritmes\obj\Debug\Algoritmes.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\Algoritmes\Algoritmes\obj\Debug\Algoritmes.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\Algoritmes\Algoritmes\obj\Debug\Algoritmes.exe
+C:\Users\Timothy\source\repos\Algoritmes\Algoritmes\obj\Debug\Algoritmes.pdb
+C:\Users\Timothy\Desktop\Studying\Навчання\Алгоритми\Source\Algoritmes\Algoritmes\bin\Debug\Algoritmes.exe.config
+C:\Users\Timothy\Desktop\Studying\Навчання\Алгоритми\Source\Algoritmes\Algoritmes\bin\Debug\Algoritmes.exe
+C:\Users\Timothy\Desktop\Studying\Навчання\Алгоритми\Source\Algoritmes\Algoritmes\bin\Debug\Algoritmes.pdb
+C:\Users\Timothy\Desktop\Studying\Навчання\Алгоритми\Source\Algoritmes\Algoritmes\obj\Debug\Algoritmes.csprojAssemblyReference.cache
+C:\Users\Timothy\Desktop\Studying\Навчання\Алгоритми\Source\Algoritmes\Algoritmes\obj\Debug\Algoritmes.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\Desktop\Studying\Навчання\Алгоритми\Source\Algoritmes\Algoritmes\obj\Debug\Algoritmes.exe
+C:\Users\Timothy\Desktop\Studying\Навчання\Алгоритми\Source\Algoritmes\Algoritmes\obj\Debug\Algoritmes.pdb
+C:\Users\Timothy\Desktop\Studying\Навчання\Алгоритми\Лабалаторна №1\Bisection\Algoritmes\bin\Debug\Algoritmes.exe.config
+C:\Users\Timothy\Desktop\Studying\Навчання\Алгоритми\Лабалаторна №1\Bisection\Algoritmes\bin\Debug\Algoritmes.exe
+C:\Users\Timothy\Desktop\Studying\Навчання\Алгоритми\Лабалаторна №1\Bisection\Algoritmes\bin\Debug\Algoritmes.pdb
+C:\Users\Timothy\Desktop\Studying\Навчання\Алгоритми\Лабалаторна №1\Bisection\Algoritmes\obj\Debug\Algoritmes.csprojAssemblyReference.cache
+C:\Users\Timothy\Desktop\Studying\Навчання\Алгоритми\Лабалаторна №1\Bisection\Algoritmes\obj\Debug\Algoritmes.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\Desktop\Studying\Навчання\Алгоритми\Лабалаторна №1\Bisection\Algoritmes\obj\Debug\Algoritmes.exe
+C:\Users\Timothy\Desktop\Studying\Навчання\Алгоритми\Лабалаторна №1\Bisection\Algoritmes\obj\Debug\Algoritmes.pdb

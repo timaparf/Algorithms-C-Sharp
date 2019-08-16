@@ -1,0 +1,21 @@
+C:\Users\Timothy\source\repos\Algorithmes3\Algorithmes3\bin\Debug\Algorithmes3.exe.config
+C:\Users\Timothy\source\repos\Algorithmes3\Algorithmes3\bin\Debug\Algorithmes3.exe
+C:\Users\Timothy\source\repos\Algorithmes3\Algorithmes3\bin\Debug\Algorithmes3.pdb
+C:\Users\Timothy\source\repos\Algorithmes3\Algorithmes3\obj\Debug\Algorithmes3.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\Algorithmes3\Algorithmes3\obj\Debug\Algorithmes3.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\Algorithmes3\Algorithmes3\obj\Debug\Algorithmes3.exe
+C:\Users\Timothy\source\repos\Algorithmes3\Algorithmes3\obj\Debug\Algorithmes3.pdb
+C:\Users\Timothy\Desktop\Studying\Навчання\Алгоритми\Лабалаторна №3\Algorithmes3\Algorithmes3\bin\Debug\Algorithmes3.exe.config
+C:\Users\Timothy\Desktop\Studying\Навчання\Алгоритми\Лабалаторна №3\Algorithmes3\Algorithmes3\bin\Debug\Algorithmes3.exe
+C:\Users\Timothy\Desktop\Studying\Навчання\Алгоритми\Лабалаторна №3\Algorithmes3\Algorithmes3\bin\Debug\Algorithmes3.pdb
+C:\Users\Timothy\Desktop\Studying\Навчання\Алгоритми\Лабалаторна №3\Algorithmes3\Algorithmes3\obj\Debug\Algorithmes3.csprojAssemblyReference.cache
+C:\Users\Timothy\Desktop\Studying\Навчання\Алгоритми\Лабалаторна №3\Algorithmes3\Algorithmes3\obj\Debug\Algorithmes3.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\Desktop\Studying\Навчання\Алгоритми\Лабалаторна №3\Algorithmes3\Algorithmes3\obj\Debug\Algorithmes3.exe
+C:\Users\Timothy\Desktop\Studying\Навчання\Алгоритми\Лабалаторна №3\Algorithmes3\Algorithmes3\obj\Debug\Algorithmes3.pdb
+D:\Google Drive Sync\Навчання\Алгоритми\Лабалаторна №3\Algorithmes3\Algorithmes3\bin\Debug\Algorithmes3.exe.config
+D:\Google Drive Sync\Навчання\Алгоритми\Лабалаторна №3\Algorithmes3\Algorithmes3\bin\Debug\Algorithmes3.exe
+D:\Google Drive Sync\Навчання\Алгоритми\Лабалаторна №3\Algorithmes3\Algorithmes3\bin\Debug\Algorithmes3.pdb
+D:\Google Drive Sync\Навчання\Алгоритми\Лабалаторна №3\Algorithmes3\Algorithmes3\obj\Debug\Algorithmes3.csprojAssemblyReference.cache
+D:\Google Drive Sync\Навчання\Алгоритми\Лабалаторна №3\Algorithmes3\Algorithmes3\obj\Debug\Algorithmes3.csproj.CoreCompileInputs.cache
+D:\Google Drive Sync\Навчання\Алгоритми\Лабалаторна №3\Algorithmes3\Algorithmes3\obj\Debug\Algorithmes3.exe
+D:\Google Drive Sync\Навчання\Алгоритми\Лабалаторна №3\Algorithmes3\Algorithmes3\obj\Debug\Algorithmes3.pdb

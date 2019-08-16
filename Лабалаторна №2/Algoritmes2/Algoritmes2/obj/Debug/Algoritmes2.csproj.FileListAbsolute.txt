@@ -1,0 +1,7 @@
+C:\Users\Timothy\source\repos\Algoritmes2\Algoritmes2\bin\Debug\Algoritmes2.exe.config
+C:\Users\Timothy\source\repos\Algoritmes2\Algoritmes2\bin\Debug\Algoritmes2.exe
+C:\Users\Timothy\source\repos\Algoritmes2\Algoritmes2\bin\Debug\Algoritmes2.pdb
+C:\Users\Timothy\source\repos\Algoritmes2\Algoritmes2\obj\Debug\Algoritmes2.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\Algoritmes2\Algoritmes2\obj\Debug\Algoritmes2.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\Algoritmes2\Algoritmes2\obj\Debug\Algoritmes2.exe
+C:\Users\Timothy\source\repos\Algoritmes2\Algoritmes2\obj\Debug\Algoritmes2.pdb

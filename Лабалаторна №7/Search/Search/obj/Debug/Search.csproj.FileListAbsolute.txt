@@ -1,0 +1,14 @@
+C:\Users\Timothy\source\repos\Search\Search\obj\Debug\Search.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\Search\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\Search\Search\bin\Debug\Search.exe.config
+C:\Users\Timothy\source\repos\Search\Search\bin\Debug\Search.exe
+C:\Users\Timothy\source\repos\Search\Search\bin\Debug\Search.pdb
+C:\Users\Timothy\source\repos\Search\Search\obj\Debug\Search.exe
+C:\Users\Timothy\source\repos\Search\Search\obj\Debug\Search.pdb
+D:\Google Drive Sync\Навчання\Алгоритми\Лабалаторна №7\Search\Search\bin\Debug\Search.exe.config
+D:\Google Drive Sync\Навчання\Алгоритми\Лабалаторна №7\Search\Search\bin\Debug\Search.exe
+D:\Google Drive Sync\Навчання\Алгоритми\Лабалаторна №7\Search\Search\bin\Debug\Search.pdb
+D:\Google Drive Sync\Навчання\Алгоритми\Лабалаторна №7\Search\Search\obj\Debug\Search.csprojAssemblyReference.cache
+D:\Google Drive Sync\Навчання\Алгоритми\Лабалаторна №7\Search\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+D:\Google Drive Sync\Навчання\Алгоритми\Лабалаторна №7\Search\Search\obj\Debug\Search.exe
+D:\Google Drive Sync\Навчання\Алгоритми\Лабалаторна №7\Search\Search\obj\Debug\Search.pdb

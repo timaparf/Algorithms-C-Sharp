@@ -1,4 +1,4 @@
-# algorithms
+# Algorithm labs
 My labolatory works in algorithms as a KNU Student
 - Bisection and Newton Method
 - Fixed-Point iteration

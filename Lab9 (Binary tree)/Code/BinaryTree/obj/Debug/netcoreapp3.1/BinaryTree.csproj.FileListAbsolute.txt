@@ -1,0 +1,13 @@
+C:\Users\Timothy Parfeniuk\Documents\Work\Study\algorithms\Лабалаторна №9\BinaryTree\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.exe
+C:\Users\Timothy Parfeniuk\Documents\Work\Study\algorithms\Лабалаторна №9\BinaryTree\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.deps.json
+C:\Users\Timothy Parfeniuk\Documents\Work\Study\algorithms\Лабалаторна №9\BinaryTree\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.runtimeconfig.json
+C:\Users\Timothy Parfeniuk\Documents\Work\Study\algorithms\Лабалаторна №9\BinaryTree\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.runtimeconfig.dev.json
+C:\Users\Timothy Parfeniuk\Documents\Work\Study\algorithms\Лабалаторна №9\BinaryTree\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.dll
+C:\Users\Timothy Parfeniuk\Documents\Work\Study\algorithms\Лабалаторна №9\BinaryTree\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.pdb
+C:\Users\Timothy Parfeniuk\Documents\Work\Study\algorithms\Лабалаторна №9\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.csprojAssemblyReference.cache
+C:\Users\Timothy Parfeniuk\Documents\Work\Study\algorithms\Лабалаторна №9\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\Timothy Parfeniuk\Documents\Work\Study\algorithms\Лабалаторна №9\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.AssemblyInfoInputs.cache
+C:\Users\Timothy Parfeniuk\Documents\Work\Study\algorithms\Лабалаторна №9\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.AssemblyInfo.cs
+C:\Users\Timothy Parfeniuk\Documents\Work\Study\algorithms\Лабалаторна №9\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.dll
+C:\Users\Timothy Parfeniuk\Documents\Work\Study\algorithms\Лабалаторна №9\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.pdb
+C:\Users\Timothy Parfeniuk\Documents\Work\Study\algorithms\Лабалаторна №9\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.genruntimeconfig.cache
